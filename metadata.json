@@ -1,0 +1,6 @@
+{
+  "name": "SnapText OCR - 截图识字 Chrome 插件与工作台",
+  "description": "专为视频与图片打造的截图识字工具，支持一键划选截屏、精准提取印刷与手写文字、一键复制、实时文本编辑与历史记录持久化，并提供完整的Chrome插件安装包。",
+  "requestFramePermissions": ["display-capture"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
